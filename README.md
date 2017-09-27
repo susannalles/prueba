@@ -1,2 +1,2 @@
-# prueba
-Esto es una prueba con una plantilla Bootstrap
+# Bootstrap
+Plantilla para Bootstrap
